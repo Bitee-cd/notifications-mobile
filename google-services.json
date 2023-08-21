@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "945067791934",
+    "project_id": "biteeexpoapp",
+    "storage_bucket": "biteeexpoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945067791934:android:5ffaf5cced6e45af0a236f",
+        "android_client_info": {
+          "package_name": "com.biteecd.notificationsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945067791934-347rjoenk63ihfk6h0cn2skavkdhvu0g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.biteecd.notificationsapp",
+            "certificate_hash": "146b1d6afc04ffdfc090eb5e7961aec2cc8d4f8c"
+          }
+        },
+        {
+          "client_id": "945067791934-tij7ka7gf3i4okgfmsm9ei3hmou2qenr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.biteecd.notificationsapp",
+            "certificate_hash": "9e5e5f80dd0a5c3316bebbcaf712de7c0494782c"
+          }
+        },
+        {
+          "client_id": "945067791934-cdbo8g24c2pgnebhnp8gjva199tnplgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT8QiEUVrujx5RT06Z8vBUih_iPjAJD3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945067791934-cdbo8g24c2pgnebhnp8gjva199tnplgc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
